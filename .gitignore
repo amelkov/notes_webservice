@@ -1,0 +1,5 @@
+#folder .idea
+#folder target
+.idea/
+target/
+notes(Spring).iml
